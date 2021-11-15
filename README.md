@@ -1,6 +1,9 @@
 # Kooki Nuker
 Fastest Python Discord Server Nuker
 
+![Screenshot 2021-11-15 031135](https://user-images.githubusercontent.com/84398948/141747343-c65023f4-5fe1-48d2-be37-77f25a5d0367.png)
+
+
 ## Installation And Use
 - You must have Python https://www.python.org/downloads/
 - Open the [Releases](https://github.com/kookiKW/KookiNuker.git)Page.
