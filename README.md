@@ -14,7 +14,7 @@ Fastest Python Discord Server Nuker
 
 ## Support
 For help and support you can add my discord: Kooki#9999
-Also if you skid this give me credits
+Also if you skid this give me credit.
 
 ## Warning
 All of these tools are used by your own risk, i do not take responsiblity for any of your actions.
