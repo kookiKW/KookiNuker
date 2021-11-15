@@ -2,6 +2,7 @@
 Fastest Python Discord Server Nuker
 
 ## Installation And Use
+- You must have Python https://www.python.org/downloads/
 - Open the [Releases](https://github.com/kookiKW/KookiNuker.git)Page.
 - Click on the latest version.
 - Extract the zip.
