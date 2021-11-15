@@ -7,7 +7,7 @@ Fastest Python Discord Server Nuker
 - Click on the latest version.
 - Extract the zip.
 - Open `Kooki.exe`.
-- Enter your user token or bot token.
+- Enter your user token, bot token, or victims Token.
 
 ## Support
 For help and support you can add my discord: Kooki#9999
