@@ -2,7 +2,7 @@
 Fastest Python Discord Server Nuker
 
 ## Installation And Use
-- Open the [Releases](https://github.com/skeqt/AveryNuker/releases) Page.
+- Open the [Releases](https://github.com/kookiKW/KookiNuker.git)Page.
 - Click on the latest version.
 - Extract the zip.
 - Open `Kooki.exe`.
