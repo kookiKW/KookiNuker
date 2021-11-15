@@ -17,3 +17,10 @@ Also if you skid this give me credit.
 
 ## Warning
 All of these tools are used by your own risk, i do not take responsiblity for any of your actions.
+
+##Some Videos Demostrating the nuker
+
+
+
+https://user-images.githubusercontent.com/84398948/141752652-9a773085-f2ba-4255-a3f4-803d12785905.mov
+
